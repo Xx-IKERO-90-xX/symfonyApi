@@ -107,6 +107,5 @@ class ProductosFotoController extends AbstractController
             'estado'=>'ok',
             "mensaje"=>'Se ha eliminado la foto correctamente :)'
         ], 200);
-
     }
 }
